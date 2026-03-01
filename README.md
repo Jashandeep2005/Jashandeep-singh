@@ -13,4 +13,4 @@ Hi, I'm Jashandeep Singh👋
 
 ## Current Goals
 - Build my portfolio website
-- Improve front-end skillsashandeep Singh
+- Improve front-end skills
